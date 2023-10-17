@@ -2,7 +2,8 @@
 
 A Flask-based website designed to let users borrow tools from one another. This website uses Stripe to manage deposit payments and returns. Google Maps API tools are used to display an interactive map, calculate the distances for location searching, as well as geocoding location data. SQLite is used to manage the database. The website enables users to create an account, search for tools based on keywords or location, borrow tools by paying a deposit which is returned when the tool is returned, message other users using a simple chat system and report and open disputes with other users.
 
-##Team
+## Team
+```
 Zeib-Un-Nisa Sattar
 Theodor Baur
 Tyler Brown
@@ -11,6 +12,7 @@ Myles Cadwallader
 Piers Chandler
 Dylan Price
 Jack Roberts
+```
 
 
 
